@@ -4,6 +4,8 @@ Proyecto de Data Engineering end-to-end desarrollado en Databricks utilizando Py
 
 ## Arquitectura
 Bronze → Silver → Gold
+<img width="1398" height="467" alt="image" src="https://github.com/user-attachments/assets/de649798-a40d-4b57-8d4c-1ed3f4cf193e" />
+
 
 ## Flujo del proyecto
 - Ingesta de datos desde Volumes (Unity Catalog)
