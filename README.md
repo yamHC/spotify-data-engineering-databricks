@@ -14,3 +14,6 @@ Bronze → Silver → Gold
 
 ## Tecnologías
 PySpark, Databricks, Delta Lake, Unity Catalog
+
+## Dasboard
+<img width="1903" height="956" alt="Dasboard" src="https://github.com/user-attachments/assets/98b99fb8-c78a-4406-b4f7-1c3572a7d915" />
